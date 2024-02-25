@@ -28,4 +28,3 @@ This project focuses on performing data analytics on Olympics data extracted fro
 
 ## Conclusion
 The project sheds light on patterns and trends within Olympic data, providing valuable insights into athlete demographics, country-wise performance, and changes in Olympic participation over time. These findings can be leveraged for further research, decision-making, and exploration in the realm of sports analytics.
-```
