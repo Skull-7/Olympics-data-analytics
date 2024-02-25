@@ -20,6 +20,15 @@ This project focuses on performing data analytics on Olympics data extracted fro
 - After cleaning the data, three files named `Athlete_data` were created in different formats: JSON, XLSX, and CSV, to provide versatility in data consumption.
 - Additionally, a dataset named `Win Loss Data By Countries` was generated to analyze the total number of medals won by countries. This dataset is also available in JSON, XLSX, and CSV formats.
 
+## Link for the datasets
+-[Athlete_data.csv](https://github.com/Skull-7/Olympics-data-analytics/blob/efbfefcc6e97eead73f2d6dcd31e23bab3235610/Athlete_data.csv)
+-[Athlete_data.xlsx](https://github.com/Skull-7/Olympics-data-analytics/blob/efbfefcc6e97eead73f2d6dcd31e23bab3235610/Athlete_data.xlsx)
+-[Athlete_data.json](https://github.com/Skull-7/Olympics-data-analytics/blob/efbfefcc6e97eead73f2d6dcd31e23bab3235610/Athlete_data.json)
+
+-[Win Loss Data By Countries.csv](https://github.com/Skull-7/Olympics-data-analytics/blob/efbfefcc6e97eead73f2d6dcd31e23bab3235610/Win%20Loss%20Data%20By%20Countries.csv)
+-[Win Loss Data By Countries.xlsx](https://github.com/Skull-7/Olympics-data-analytics/blob/efbfefcc6e97eead73f2d6dcd31e23bab3235610/Win%20Loss%20Data%20By%20Countries.xlsx)
+-[Win Loss Data By Countries.json](https://raw.githubusercontent.com/Skull-7/Olympics-data-analytics/efbfefcc6e97eead73f2d6dcd31e23bab3235610/Win%20Loss%20Data%20By%20Countries.json)
+
 ## Contents
 - **Data Cleaning**: The notebook details the steps taken to clean and preprocess the raw data, handle missing values, and ensure data consistency.
 - **Data Analysis**: Various analyses were conducted, including demographic insights into athletes, trends in Olympic participation over time, and a breakdown of medal counts by country.
